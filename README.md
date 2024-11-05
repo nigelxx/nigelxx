@@ -6,7 +6,7 @@ I have 20+ years experience in Web Application Development, including
 - Bootstrap Responsive Design
 
 
-- I’m currently continuing to develop Jobs1.net and I am learning Azure DevOps with Visual Studio 
+- I’m currently continuing to develop Market-Data, a Forex data analysis application. I am also learning Azure DevOps with Visual Studio 
 - Contact me via email - nigelxx@hotmail.com 
 
 <!---
